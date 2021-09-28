@@ -9,6 +9,7 @@ Everyone is permitted to copy and distribute verbatim copies<br />
  
 <h2>Installation:</h2>
 
+Git Bash
 <code>--clone KeepList</code>
 
 <h2>Content:</h2>
