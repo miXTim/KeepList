@@ -1,5 +1,5 @@
 
-#KeepList by miXTim
+<h1>KeepList by miXTim</h1>
 Version 0.9, 28 September 2021
 
 
@@ -7,7 +7,7 @@ Copyright(C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
  
-##Content:
+<h2>Content:</h2>
 
 **Web app for taking annotations in LocalStorage.**
 
@@ -30,7 +30,7 @@ Contains two themes with light and dark mode.
 
 ---
 
-###Further information:
+<h3>Further information:</h3>
 
 - The initial logic is found in this [link](https://parzibyte.me/blog/2021/07/17/lista-tareas-pendientes-javascript).
 - The notes edition is based on this [post](https://dev.to/gabriellend/how-to-make-your-to-do-list-editable-with-javascript-5119).
