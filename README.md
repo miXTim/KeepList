@@ -31,7 +31,7 @@ Fully keyboard accessible (except editing annotations.). Contains two themes wit
 
 ---
 
-Thanks for watching! | [Demo](https://mixtim.github.io/)
+Thanks for watching! | [Demo](https://mixtim.github.io/KeepList/)
 
 
 <h3>Further information:</h3>
