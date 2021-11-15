@@ -67,6 +67,7 @@ body {
   background-size: 10px 10px;
   overflow-y: hidden;
 }
+.markdown-body .my-5 { margin-top: 0;}
 h1 { display: none; }
 a {
   color: var(--link-color);
